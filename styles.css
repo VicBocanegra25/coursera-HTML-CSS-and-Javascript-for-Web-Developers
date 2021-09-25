@@ -1,0 +1,29 @@
+.centered
+{
+    text-align: center;
+}
+.large
+{
+    font-size: large;
+}
+.medium
+{
+    font-size: medium;
+}
+.small
+{
+    font-size: small;
+}
+#heterochromia
+{
+    color: #0000ff;
+    font-family: Verdana, Geneva, Tahoma, sans-serif
+}
+a
+{
+    text-decoration: none;
+}
+a:hover
+{
+    text-decoration:  underline;
+}
